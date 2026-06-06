@@ -1,0 +1,201 @@
+product_id,product_name,category,unit_cost,launch_date
+1001,Jeans Style-1,Clothing,10.8,2023-05-21
+1002,Table Design-2,Home & Garden,145.58,2023-02-22
+1003,Scarf Style-3,Clothing,17.74,2023-08-05
+1004,T-Shirt Style-4,Clothing,11.34,2023-04-22
+1005,Headphones Model-5,Electronics,429.02,2023-01-14
+1006,Keyboard Model-6,Electronics,199.13,2023-11-29
+1007,Keyboard Model-7,Electronics,364.64,2023-08-18
+1008,Vase Design-8,Home & Garden,177.74,2023-01-04
+1009,Jacket Style-9,Clothing,86.19,2023-06-24
+1010,Dress Style-10,Clothing,25.41,2023-06-22
+1011,Phone Model-11,Electronics,119.56,2023-02-19
+1012,Planter Design-12,Home & Garden,510.78,2023-11-06
+1013,Rug Design-13,Home & Garden,487.17,2023-08-24
+1014,Keyboard Model-14,Electronics,143.62,2023-07-13
+1015,Phone Model-15,Electronics,464.03,2023-11-18
+1016,Mouse Model-16,Electronics,714.09,2023-07-05
+1017,Mouse Model-17,Electronics,194.22,2023-02-05
+1018,T-Shirt Style-18,Clothing,82.06,2023-05-29
+1019,Jeans Style-19,Clothing,103.8,2023-02-21
+1020,Speaker Model-20,Electronics,258.48,2023-11-22
+1021,Sweater Style-21,Clothing,26.22,2023-07-01
+1022,Headphones Model-22,Electronics,552.63,2023-12-26
+1023,Phone Model-23,Electronics,506.85,2023-03-29
+1024,Scarf Style-24,Clothing,89.66,2023-03-25
+1025,Hat Style-25,Clothing,50.5,2023-11-24
+1026,Shelf Design-26,Home & Garden,143.47,2023-06-16
+1027,Laptop Model-27,Electronics,221.79,2023-01-17
+1028,Sweater Style-28,Clothing,52.93,2023-02-03
+1029,Sneakers Style-29,Clothing,110.27,2023-10-18
+1030,Camera Model-30,Electronics,209.47,2023-09-13
+1031,Shorts Style-31,Clothing,107.08,2023-11-26
+1032,Monitor Model-32,Electronics,157.15,2023-03-13
+1033,Headphones Model-33,Electronics,608.74,2023-10-03
+1034,Rug Design-34,Home & Garden,452.0,2023-08-08
+1035,Vase Design-35,Home & Garden,248.65,2023-04-23
+1036,Chair Design-36,Home & Garden,313.07,2023-02-16
+1037,Laptop Model-37,Electronics,695.83,2023-03-20
+1038,Tablet Model-38,Electronics,644.06,2023-08-05
+1039,Socks Style-39,Clothing,15.12,2023-07-15
+1040,Socks Style-40,Clothing,119.57,2023-09-28
+1041,Smartwatch Model-41,Electronics,778.31,2023-01-06
+1042,Jeans Style-42,Clothing,84.35,2023-10-02
+1043,Smartwatch Model-43,Electronics,626.45,2023-06-24
+1044,Lamp Design-44,Home & Garden,186.7,2023-03-22
+1045,Monitor Model-45,Electronics,52.43,2023-05-15
+1046,Scarf Style-46,Clothing,93.34,2023-09-17
+1047,Phone Model-47,Electronics,702.89,2023-06-02
+1048,Scarf Style-48,Clothing,76.2,2023-03-20
+1049,Sweater Style-49,Clothing,93.4,2023-10-04
+1050,Keyboard Model-50,Electronics,738.87,2023-11-03
+1051,Planter Design-51,Home & Garden,300.83,2023-02-27
+1052,Planter Design-52,Home & Garden,529.05,2023-06-07
+1053,Table Design-53,Home & Garden,48.89,2023-10-18
+1054,Lamp Design-54,Home & Garden,65.11,2023-09-06
+1055,Jeans Style-55,Clothing,117.53,2023-09-30
+1056,Chair Design-56,Home & Garden,90.11,2023-09-01
+1057,Keyboard Model-57,Electronics,173.85,2023-09-28
+1058,Mouse Model-58,Electronics,367.35,2023-04-19
+1059,Keyboard Model-59,Electronics,616.45,2023-12-20
+1060,Headphones Model-60,Electronics,584.71,2023-07-24
+1061,Sweater Style-61,Clothing,57.07,2023-09-22
+1062,Monitor Model-62,Electronics,140.75,2023-04-26
+1063,Lamp Design-63,Home & Garden,212.78,2023-10-29
+1064,Scarf Style-64,Clothing,33.77,2023-04-23
+1065,Laptop Model-65,Electronics,103.24,2023-11-20
+1066,T-Shirt Style-66,Clothing,33.64,2023-01-17
+1067,Camera Model-67,Electronics,103.14,2023-05-02
+1068,Rug Design-68,Home & Garden,406.35,2023-04-20
+1069,Keyboard Model-69,Electronics,149.23,2023-10-20
+1070,Vase Design-70,Home & Garden,291.51,2023-08-31
+1071,Cushion Design-71,Home & Garden,126.39,2023-02-19
+1072,Speaker Model-72,Electronics,315.72,2023-07-30
+1073,Monitor Model-73,Electronics,697.88,2023-01-28
+1074,Lamp Design-74,Home & Garden,50.46,2023-06-23
+1075,Jeans Style-75,Clothing,35.85,2023-04-08
+1076,Scarf Style-76,Clothing,58.24,2023-08-05
+1077,Chair Design-77,Home & Garden,177.95,2023-05-08
+1078,Phone Model-78,Electronics,382.35,2023-10-09
+1079,Jeans Style-79,Clothing,13.67,2023-10-04
+1080,Laptop Model-80,Electronics,776.75,2023-05-02
+1081,Chair Design-81,Home & Garden,252.75,2023-09-04
+1082,Sneakers Style-82,Clothing,104.84,2023-01-31
+1083,Tablet Model-83,Electronics,334.23,2023-07-19
+1084,Smartwatch Model-84,Electronics,744.89,2023-08-21
+1085,Smartwatch Model-85,Electronics,367.26,2023-10-12
+1086,Monitor Model-86,Electronics,166.1,2023-06-01
+1087,Sneakers Style-87,Clothing,116.5,2023-10-24
+1088,Scarf Style-88,Clothing,14.83,2023-06-10
+1089,Sofa Design-89,Home & Garden,44.33,2023-09-02
+1090,Scarf Style-90,Clothing,110.97,2023-09-29
+1091,Tablet Model-91,Electronics,92.66,2023-09-18
+1092,Jeans Style-92,Clothing,103.35,2023-02-05
+1093,Vase Design-93,Home & Garden,54.76,2023-05-01
+1094,Shorts Style-94,Clothing,21.43,2023-10-19
+1095,Table Design-95,Home & Garden,353.67,2023-01-21
+1096,Socks Style-96,Clothing,17.18,2023-12-03
+1097,Socks Style-97,Clothing,71.31,2023-06-11
+1098,Dress Style-98,Clothing,30.88,2023-06-10
+1099,Headphones Model-99,Electronics,249.21,2023-03-09
+1100,Smartwatch Model-100,Electronics,392.92,2023-02-07
+1101,Laptop Model-101,Electronics,393.71,2023-10-16
+1102,Jeans Style-102,Clothing,16.21,2023-04-20
+1103,Keyboard Model-103,Electronics,248.9,2023-06-28
+1104,Jeans Style-104,Clothing,106.48,2023-07-09
+1105,Rug Design-105,Home & Garden,107.28,2023-10-06
+1106,Smartwatch Model-106,Electronics,508.76,2023-12-01
+1107,Scarf Style-107,Clothing,8.88,2023-10-11
+1108,Rug Design-108,Home & Garden,560.08,2023-02-23
+1109,Tablet Model-109,Electronics,248.35,2023-02-24
+1110,Keyboard Model-110,Electronics,166.59,2023-05-25
+1111,Mouse Model-111,Electronics,207.97,2023-06-25
+1112,Headphones Model-112,Electronics,565.62,2023-05-16
+1113,Shelf Design-113,Home & Garden,300.79,2023-01-27
+1114,Lamp Design-114,Home & Garden,386.06,2023-05-22
+1115,T-Shirt Style-115,Clothing,8.4,2023-03-08
+1116,Rug Design-116,Home & Garden,109.53,2023-08-15
+1117,Shelf Design-117,Home & Garden,427.82,2023-10-15
+1118,Laptop Model-118,Electronics,133.91,2023-12-20
+1119,Chair Design-119,Home & Garden,334.17,2023-07-09
+1120,Socks Style-120,Clothing,69.88,2023-08-09
+1121,Chair Design-121,Home & Garden,39.47,2023-07-06
+1122,Sofa Design-122,Home & Garden,540.87,2023-04-18
+1123,Headphones Model-123,Electronics,550.2,2023-07-01
+1124,Keyboard Model-124,Electronics,713.1,2023-07-28
+1125,Mouse Model-125,Electronics,612.11,2023-05-02
+1126,Jacket Style-126,Clothing,117.34,2023-04-01
+1127,Cushion Design-127,Home & Garden,29.5,2023-06-20
+1128,Cushion Design-128,Home & Garden,484.31,2023-05-08
+1129,Smartwatch Model-129,Electronics,169.4,2023-12-26
+1130,Jeans Style-130,Clothing,50.84,2023-01-20
+1131,Hat Style-131,Clothing,32.91,2023-08-24
+1132,Camera Model-132,Electronics,278.89,2023-04-27
+1133,Headphones Model-133,Electronics,67.75,2023-04-09
+1134,Speaker Model-134,Electronics,296.2,2023-02-05
+1135,Rug Design-135,Home & Garden,220.42,2023-09-18
+1136,Speaker Model-136,Electronics,559.64,2023-10-02
+1137,Sweater Style-137,Clothing,113.19,2023-03-01
+1138,Dress Style-138,Clothing,28.0,2023-05-16
+1139,T-Shirt Style-139,Clothing,20.14,2023-08-11
+1140,Planter Design-140,Home & Garden,441.2,2023-06-10
+1141,Cushion Design-141,Home & Garden,369.63,2023-09-19
+1142,Phone Model-142,Electronics,338.9,2023-10-23
+1143,Sneakers Style-143,Clothing,36.53,2023-12-29
+1144,Speaker Model-144,Electronics,51.27,2023-10-03
+1145,Headphones Model-145,Electronics,323.17,2023-02-05
+1146,Camera Model-146,Electronics,517.37,2023-12-06
+1147,Jeans Style-147,Clothing,88.61,2023-06-03
+1148,Scarf Style-148,Clothing,42.64,2023-07-29
+1149,Camera Model-149,Electronics,351.8,2023-06-01
+1150,Keyboard Model-150,Electronics,145.47,2023-08-04
+1151,Cushion Design-151,Home & Garden,411.23,2023-03-31
+1152,Mouse Model-152,Electronics,476.83,2023-07-27
+1153,Keyboard Model-153,Electronics,675.29,2023-06-05
+1154,Dress Style-154,Clothing,31.54,2023-10-24
+1155,Vase Design-155,Home & Garden,398.0,2023-08-27
+1156,Monitor Model-156,Electronics,381.62,2023-04-20
+1157,Scarf Style-157,Clothing,61.0,2023-03-28
+1158,Lamp Design-158,Home & Garden,181.02,2023-12-06
+1159,Mouse Model-159,Electronics,301.39,2023-05-01
+1160,Dress Style-160,Clothing,33.16,2023-04-12
+1161,Jacket Style-161,Clothing,10.74,2023-05-06
+1162,Hat Style-162,Clothing,76.46,2023-02-07
+1163,Hat Style-163,Clothing,54.42,2023-11-19
+1164,Socks Style-164,Clothing,29.78,2023-12-23
+1165,Speaker Model-165,Electronics,420.78,2023-05-05
+1166,Chair Design-166,Home & Garden,398.79,2023-01-03
+1167,Phone Model-167,Electronics,633.82,2023-04-23
+1168,Tablet Model-168,Electronics,653.08,2023-12-23
+1169,Keyboard Model-169,Electronics,398.41,2023-10-13
+1170,Sneakers Style-170,Clothing,110.76,2023-03-04
+1171,Hat Style-171,Clothing,22.93,2023-08-26
+1172,Keyboard Model-172,Electronics,790.92,2023-11-01
+1173,Sweater Style-173,Clothing,114.4,2023-08-15
+1174,Mouse Model-174,Electronics,661.25,2023-09-16
+1175,Shorts Style-175,Clothing,101.02,2023-10-08
+1176,Monitor Model-176,Electronics,722.91,2023-09-01
+1177,Hat Style-177,Clothing,37.03,2023-05-07
+1178,Dress Style-178,Clothing,93.77,2023-09-24
+1179,Curtain Design-179,Home & Garden,381.65,2023-05-21
+1180,Monitor Model-180,Electronics,108.11,2023-05-27
+1181,Headphones Model-181,Electronics,253.79,2023-06-13
+1182,Keyboard Model-182,Electronics,110.43,2023-03-19
+1183,Table Design-183,Home & Garden,239.08,2023-03-20
+1184,Table Design-184,Home & Garden,52.57,2023-07-28
+1185,Camera Model-185,Electronics,456.96,2023-08-01
+1186,T-Shirt Style-186,Clothing,31.17,2023-08-04
+1187,Cushion Design-187,Home & Garden,544.33,2023-10-27
+1188,T-Shirt Style-188,Clothing,103.95,2023-10-22
+1189,Shorts Style-189,Clothing,61.42,2023-06-30
+1190,Smartwatch Model-190,Electronics,615.11,2023-08-03
+1191,Keyboard Model-191,Electronics,610.64,2023-10-07
+1192,Vase Design-192,Home & Garden,540.22,2023-09-07
+1193,Table Design-193,Home & Garden,174.67,2023-09-06
+1194,T-Shirt Style-194,Clothing,51.55,2023-12-09
+1195,Speaker Model-195,Electronics,593.14,2023-08-28
+1196,Tablet Model-196,Electronics,785.54,2023-10-01
+1197,T-Shirt Style-197,Clothing,109.58,2023-10-31
+1198,Vase Design-198,Home & Garden,402.85,2023-02-12
+1199,Cushion Design-199,Home & Garden,94.38,2023-08-25
+1200,Chair Design-200,Home & Garden,44.42,2023-07-14
