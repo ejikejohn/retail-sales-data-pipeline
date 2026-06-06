@@ -156,7 +156,7 @@ Python: Run notebooks/analysis.ipynb or scripts/executive_dashboard.py
 [ ] Automated email report distribution (Python smtplib)
 [ ] A/B test framework for retention offers
 [ ] Migrate from SQLite to PostgreSQL for production scale
-### About This Project
+## About This Project
 Built as part of a project-based learning approach to data analytics.
 Same scenario analyzed across Excel, SQL, and Python to understand
 when each tool adds value and how they hand off in a real workflow.
