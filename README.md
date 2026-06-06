@@ -112,6 +112,7 @@ CREATE TABLE sales (
 );
 ```
 Quarter-over-Quarter Growth (SQLite Window Functions)
+```
 WITH quarterly AS (
     SELECT 
         strftime('%Y', date) AS yr,
@@ -140,29 +141,27 @@ SELECT
     ROUND((revenue - prev_quarter) * 100.0 / prev_quarter, 2) AS growth_pct
 FROM with_lag
 WHERE yr = '2024' AND qtr = 2;
+```
 <img width="684" height="405" alt="image" src="https://github.com/user-attachments/assets/43efc55b-6c28-4a97-a833-90758f950f63" />
 <img width="755" height="354" alt="image" src="https://github.com/user-attachments/assets/c4d32037-fb89-480d-9d88-7d69b6d28649" />
-4. Run Analysis
+---
+### 4. Run Analysis
 Excel: Open excel/executive_summary.xlsx
 SQL: Execute queries 03–05 in SQLite
 Python: Run notebooks/analysis.ipynb or scripts/executive_dashboard.py
 <img width="789" height="380" alt="image" src="https://github.com/user-attachments/assets/873b4a40-ec61-44e0-a68c-43d96b2960af" />
-Future Enhancements
+### Future Enhancements
 [ ] Power BI/Tableau live dashboard connection
 [ ] ARIMA or Prophet forecasting (replace linear regression)
 [ ] Automated email report distribution (Python smtplib)
 [ ] A/B test framework for retention offers
 [ ] Migrate from SQLite to PostgreSQL for production scale
-About This Project
-```
-```
+### About This Project
 Built as part of a project-based learning approach to data analytics.
 Same scenario analyzed across Excel, SQL, and Python to understand
 when each tool adds value and how they hand off in a real workflow.
 Connect: [LinkedIn](https://www.linkedin.com/in/marshal-favour/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BlfOFjvuoQ4W2y1UVtIhGTQ%3D%3D)
-```
-```
-License
+### License
 MIT License — feel free to fork, modify, and build upon this structure
 for your own learning or portfolio.
 
