@@ -154,10 +154,14 @@ Future Enhancements
 [ ] A/B test framework for retention offers
 [ ] Migrate from SQLite to PostgreSQL for production scale
 About This Project
+```
+```
 Built as part of a project-based learning approach to data analytics.
 Same scenario analyzed across Excel, SQL, and Python to understand
 when each tool adds value and how they hand off in a real workflow.
 Connect: [LinkedIn](https://www.linkedin.com/in/marshal-favour/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BlfOFjvuoQ4W2y1UVtIhGTQ%3D%3D)
+```
+```
 License
 MIT License — feel free to fork, modify, and build upon this structure
 for your own learning or portfolio.
